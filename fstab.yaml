@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/mani-m5/AlgoliaDemoProject/
+    type: markup
+
+folders:
+  /products/: /products/default
